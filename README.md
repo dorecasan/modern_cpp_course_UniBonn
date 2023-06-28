@@ -1,9 +1,6 @@
 # modern_cpp_course_UniBonn
-Modern C++ course UniBonn
 
-This repository contains my solutions for homeworks in [Modern C++ for Computer Vision course](https://www.ipb.uni-bonn.de/teaching/cpp-2020/) provided by Professor Cyrill Stachniss at the University of Bonn.
-
-Source files for each homework can be found [here](https://www.ipb.uni-bonn.de/teaching/cpp-2020/tutorials/).
+This repository contains my solutions for homeworks in [Modern C++ for Computer Vision course](https://www.ipb.uni-bonn.de/teaching/cpp-2020/) provided by Professor Cyrill Stachniss at the University of Bonn. Source files for each homework can be found [here](https://www.ipb.uni-bonn.de/teaching/cpp-2020/tutorials/).
 
 ## Homework Assignments
 
