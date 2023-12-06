@@ -19,4 +19,4 @@ This repository contains my solutions for homeworks in [Modern C++ for Computer 
 
 ## Acknowledgement 
 
-I am immensely grateful to Ignacio Vizzo and Prof. Cyrill Stachniss from the University of Bonn for generously open-sourcing these exceptional course materials. Their contribution has greatly enhanced my learning experience in Modern C++. I sincerely appreciate their dedication and support, which have been instrumental in my educational journey. Thank you for making this valuable resource available.
+I am immensely grateful to Ignacio Vizzo and Prof. Cyrill Stachniss from the University of Bonn for generously open-sourcing these exceptional course materials. Their contribution has greatly enhanced my learning experience in Modern C++.
